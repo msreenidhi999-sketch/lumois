@@ -1,0 +1,7 @@
+{
+  "name": "BrandForge AI",
+  "description": "A comprehensive Generative AI branding suite for creating unique brand identities, stories, marketing content, and logos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
