@@ -225,3 +225,11 @@ For issues or questions, please check:
 ---
 
 **Built with ❤️ using Streamlit and AI**
+
+## TEAM MEMBERS
+K. Rushitha
+M. Sreenidhi
+M. Yashashwini
+M. Bhavya
+M. Bhavishya
+
