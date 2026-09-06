@@ -230,6 +230,6 @@ For issues or questions, please check:
 K. Rushitha
 M. Sreenidhi
 M. Yashashwini
-M. Bhavya
+M. Reddy Bhavya Sri
 M. Bhavishya
 
